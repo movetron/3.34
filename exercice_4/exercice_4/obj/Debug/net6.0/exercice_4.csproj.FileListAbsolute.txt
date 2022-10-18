@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\bin\Debug\net6.0\exercice_4.exe
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\bin\Debug\net6.0\exercice_4.deps.json
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\bin\Debug\net6.0\exercice_4.runtimeconfig.json
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\bin\Debug\net6.0\exercice_4.dll
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\bin\Debug\net6.0\exercice_4.pdb
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.dll
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\refint\exercice_4.dll
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.pdb
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\exercice_4.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\exercice_4\exercice_4\obj\Debug\net6.0\ref\exercice_4.dll
